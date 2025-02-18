@@ -18,7 +18,7 @@ Flappy Bird is a simple yet addictive game where the player controls a bird, att
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/surakaushik/flappy-bird-game.git
+    git clone https://github.com/surakaushik/Flappy-Bird-Game.git
     ```
 2. Navigate to the project directory:
     ```sh
